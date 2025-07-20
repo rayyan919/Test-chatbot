@@ -16,7 +16,9 @@ DB_PORT=           # e.g., 3306
 SECRET_KEY=chemsecret
 GEMINI_API_KEY=    # your Gemini Pro API key
 
-## 3. Run the App
+Also find the `schema.sql` file in `server/db/` directory and run it in your MYSQL Workbench
+
+### 3. Run the App
 In two separate terminals:
 
 For the server:
